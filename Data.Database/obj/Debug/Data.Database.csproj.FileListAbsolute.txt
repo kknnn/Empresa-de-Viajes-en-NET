@@ -1,0 +1,14 @@
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\Data.Database\obj\Debug\Data.Database.pdb

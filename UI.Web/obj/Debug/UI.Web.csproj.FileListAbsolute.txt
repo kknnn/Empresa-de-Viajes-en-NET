@@ -1,0 +1,117 @@
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\ApplicationInsights.config
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\roslyn\csc.exe
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\roslyn\vbc.exe
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\UI.Web.dll.config
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\UI.Web.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\UI.Web.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Business.Entities.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Business.Logic.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Data.Database.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Business.Entities.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Business.Logic.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\bin\Data.Database.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\obj\Debug\UI.Web.csprojResolveAssemblyReference.cache
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\obj\Debug\UI.Web.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\UI.Web\obj\Debug\UI.Web.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\ApplicationInsights.config
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\roslyn\csc.exe
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\roslyn\vbc.exe
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\UI.Web.dll.config
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\UI.Web.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\UI.Web.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Business.Entities.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Business.Logic.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Data.Database.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Business.Entities.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Business.Logic.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\bin\Data.Database.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\obj\Debug\UI.Web.csprojResolveAssemblyReference.cache
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\obj\Debug\UI.Web.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\UI.Web\obj\Debug\UI.Web.pdb
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\ApplicationInsights.config
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\roslyn\csc.exe
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\roslyn\vbc.exe
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\UI.Web.dll.config
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\UI.Web.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\UI.Web.pdb
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Business.Entities.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Business.Logic.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Data.Database.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Business.Entities.pdb
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Business.Logic.pdb
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\bin\Data.Database.pdb
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\obj\Debug\UI.Web.csprojResolveAssemblyReference.cache
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\obj\Debug\UI.Web.dll
+C:\Users\Compaq\Desktop\Empresa de Viajes\UI.Web\obj\Debug\UI.Web.pdb

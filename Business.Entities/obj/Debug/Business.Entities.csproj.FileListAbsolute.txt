@@ -1,0 +1,10 @@
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\PC02BaldiniAgustin\Empresa de Viajes\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\Compaq\Documents\Visual Studio 2015\Projects\Empresa de Viajes\Business.Entities\obj\Debug\Business.Entities.pdb
